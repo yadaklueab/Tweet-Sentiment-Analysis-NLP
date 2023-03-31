@@ -8,7 +8,7 @@ Every day, social media platforms such as Twitter, Facebook, and Instagram gener
 
 The dataset used contains the text and sentiment of the tweet from Kaggle competition, Tweet Sentiment Extraction. This task includes one file which is train.csv. Each row in the training contains the text of a tweet and a sentiment label and also provided with a word or phrase selected from the tweet (selected_text) that encapsulates the provided sentiment.
 
-The columns included in the dataset are as follows:\
+The columns included in the dataset are as follows:
 textID: A unique identifier for each piece of text\
 text: The text of the tweet\
 sentiment: The general sentiment of the tweet\
